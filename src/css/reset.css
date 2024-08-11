@@ -1,0 +1,7 @@
+/*resetar todo html*/
+*{
+    margin: 0; /* o asterisco serve como seletor de reset geral, o margin da espaçamento externo*/
+    padding: 0; /* espaçamento interno entre as bordas*/
+    box-sizing: border-box; /*facilita ajustar as bordas em cada caixa*/
+}
+
